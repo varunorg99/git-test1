@@ -1,1 +1,2 @@
 This a text file. This file is created for the git testing.
+Added another line to this text file.
